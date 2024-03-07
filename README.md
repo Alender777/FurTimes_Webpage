@@ -1,6 +1,6 @@
 # FurTimes.tw Official Website
 
-Welcome to the official repository of **FurTimes.tw**, the heartbeat of the Taiwanese furry community! 🌍🐾 As we celebrate our 5th anniversary, we are thrilled to introduce our brand-new website, designed to connect furries from all corners of the world, share inspiring stories, and showcase the diverse cultures within our vibrant community.
+Welcome to the official repository of [**FurTimes.tw**](https://furtimes.tw), the heartbeat of the Taiwanese furry community! 🌍🐾 As we celebrate our 5th anniversary, we are thrilled to introduce our brand-new website, designed to connect furries from all corners of the world, share inspiring stories, and showcase the diverse cultures within our vibrant community.
 
 ## 🎉 What's New?
 
