@@ -32,4 +32,5 @@ For inquiries, suggestions, submit content, or just to say hi, please email us a
 If you love what we do and would like to support us, consider donating or subscribing to FurTimes. Your support helps us keep our furry spirit alive and thriving!
 
 Thank you for being a part of our journey. Let's make the furry world even more connected and vibrant together!
-Alender
+
+**Made with paws by Alender**
