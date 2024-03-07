@@ -33,4 +33,4 @@ If you love what we do and would like to support us, consider donating or subscr
 
 Thank you for being a part of our journey. Let's make the furry world even more connected and vibrant together!
 
-**Made with paws by Alender**
+**Made with 🐾 by Alender🐺**
